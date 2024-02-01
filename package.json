@@ -1,0 +1,15 @@
+{
+  "name": "lock-on",
+  "version": "1.0.0",
+  "description": "hyperfocus application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kuraian",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.2.1"
+  }
+}
